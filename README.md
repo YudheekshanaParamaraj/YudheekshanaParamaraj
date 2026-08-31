@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Yudheekshana Paramaraj
 
-### 🤖 AI Developer | Generative AI • Machine Learning • Data Science
+### 🤖 AI Developer | LLMS • Generative AI • Machine Learning • Data Science
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Building+with+Artificial+Intelligence+%F0%9F%A4%96;LLMs+%7C+Generative+AI+%7C+Machine+Learning;Turning+Ideas+Into+Intelligent+Applications;Always+Learning%2C+Building+and+Experimenting+%F0%9F%9A%80" />
 
