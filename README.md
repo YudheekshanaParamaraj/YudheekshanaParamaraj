@@ -1,66 +1,158 @@
-## Hi there 👋, I'm Yudheekshana!
 
-🎓 Computer Science Student  
-🤖 Interested in Artificial Intelligence, Machine Learning & Data Science  
-📍 Chennai, India  
+<div align="center">
 
----
+# 👋 Hi, I'm Yudheekshana Paramaraj
 
-## 🚀 About Me
+### 💻 Computer Science Student | 🤖 AI & Data Science Enthusiast
 
-- 🔭 Currently working on AI and Data Science projects
-- 🌱 Currently learning Machine Learning and Cloud Technologies
-- 💡 Interested in solving real-world problems using AI
-- 👯 Looking to collaborate on innovative projects
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI+%7C+Machine+Learning+%7C+Data+Science;Building+Intelligent+Solutions;Turning+Ideas+Into+Real-World+Projects" />
+
+</div>
 
 ---
 
-## 🛠️ Technologies & Tools
+## 👩‍💻 About Me
 
-### Programming Languages
-Python • Java • JavaScript • SQL
+🎓 **Computer Science Engineering Student**
 
-### AI & Data Science
-Machine Learning • Pandas • NumPy • Scikit-learn
+🤖 Passionate about **Artificial Intelligence, Machine Learning, and Data Science**
 
-### Web Development
-React • FastAPI • HTML • CSS
+💻 Interested in building intelligent applications that solve real-world problems
 
-### Tools
-Git • GitHub • VS Code • Jupyter Notebook
+🌱 Currently exploring **AI, Full-Stack Development, Cloud, and Data Analytics**
+
+🚀 Always learning, building, and experimenting with new technologies
 
 ---
 
-## 📌 Featured Projects
+# 🛠️ Technologies & Tools
 
-### 🤖 TravelWise AI
-An AI-powered smart transport assistant designed to help tourists navigate Chennai.
+<div align="center">
 
-**Technologies:** Python, Machine Learning, AI
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,fastapi,mysql,git,github,vscode" />
 
-### 💰 Personal Finance AI
-An intelligent personal finance application that analyzes expenses, forecasts spending, and provides recommendations.
+<br><br>
 
-**Technologies:** React, FastAPI, Python, Machine Learning
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,linux,docker" />
 
-### 🔐 NetGuard
-An AI-powered Network Intrusion Detection System.
-
-**Technologies:** Python, Machine Learning, Cybersecurity
+</div>
 
 ---
 
-## 📊 GitHub Stats
+# 🤖 AI & Data Science
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn" />
+
+</div>
+
+<br>
+
+- 📊 Data Analysis
+- 🤖 Machine Learning
+- 🧠 Artificial Intelligence
+- 📈 Predictive Analytics
+- 🐍 Python Development
 
 ---
 
-## 🌐 Connect With Me
+# 🚀 Featured Projects
 
-💼 LinkedIn: Add your LinkedIn link  
-📧 Email: Add your professional email
+## 🚆 TravelWise AI
+
+> An AI-powered smart transportation assistant designed to help tourists navigate cities efficiently.
+
+### Features
+
+- 🚇 Smart transport recommendations
+- 💰 Fare prediction
+- ⏱️ Travel time estimation
+- 📍 Nearby transportation locations
+- 🤖 AI-powered assistance
+
+**Tech Stack:** Python • Machine Learning • Data Science • AI
 
 ---
 
-⭐ Feel free to explore my repositories!
+## 💰 Personal Finance AI
+
+> An intelligent personal finance application that analyzes financial data and provides insights.
+
+### Features
+
+- 📊 Expense analysis
+- 📈 Financial forecasting
+- 🤖 AI recommendations
+- 💬 AI chatbot
+
+**Tech Stack:** React • FastAPI • Python • Machine Learning
+
+---
+
+## 🔐 NetGuard
+
+> An AI-powered Network Intrusion Detection System designed to identify suspicious network activity.
+
+**Tech Stack:** Python • Machine Learning • Cybersecurity
+
+---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YudheekshanaParamaraj&show_icons=true&theme=github_dark"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YudheekshanaParamaraj&layout=compact&theme=github_dark"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YudheekshanaParamaraj&theme=github-dark-blue" />
+
+</div>
+
+---
+
+# 🌱 Currently Learning
+
+<div align="center">
+
+🤖 Artificial Intelligence  
+📊 Advanced Data Science  
+☁️ Cloud Computing  
+🔐 Cybersecurity  
+🌐 Full-Stack Development  
+
+</div>
+
+---
+
+# 💡 Fun Fact
+
+```python
+class Developer:
+
+    def __init__(self):
+        self.name = "Yudheekshana Paramaraj"
+        self.role = "Computer Science Student"
+        self.interests = [
+            "Artificial Intelligence",
+            "Machine Learning",
+            "Data Science",
+            "Full-Stack Development"
+        ]
+
+    def say_hi(self):
+        print("Thanks for visiting my profile! 🚀")
+
+
+me = Developer()
+
+me.say_hi()
