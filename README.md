@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# Hi there 👋, I'm Yudheekshana!
+## Hi there 👋, I'm Yudheekshana!
 
 🎓 Computer Science Student  
 🤖 Interested in Artificial Intelligence, Machine Learning & Data Science  
