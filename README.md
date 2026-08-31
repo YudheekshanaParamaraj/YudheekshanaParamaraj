@@ -1,11 +1,10 @@
-
 <div align="center">
 
 # 👋 Hi, I'm Yudheekshana Paramaraj
 
-### 💻 Computer Science Student | 🤖 AI & Data Science Enthusiast
+### 🤖 AI Developer | LLMs • Generative AI • Machine Learning • Data Science
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI+%7C+Machine+Learning+%7C+Data+Science;Building+Intelligent+Solutions;Turning+Ideas+Into+Real-World+Projects" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Building+with+Artificial+Intelligence+%F0%9F%A4%96;LLMs+%7C+Generative+AI+%7C+Machine+Learning;Turning+Ideas+Into+Intelligent+Applications;Always+Learning%2C+Building+and+Experimenting+%F0%9F%9A%80" />
 
 </div>
 
@@ -13,56 +12,91 @@
 
 ## 👩‍💻 About Me
 
-🎓 **Computer Science Engineering Student**
+🎓 Computer Science Engineering Student
 
-🤖 Passionate about **Artificial Intelligence, Machine Learning, and Data Science**
+🤖 Passionate about **Artificial Intelligence, Generative AI, Machine Learning, and Data Science**
 
-💻 Interested in building intelligent applications that solve real-world problems
+🧠 Exploring **Large Language Models (LLMs)** and building AI-powered applications
 
-🌱 Currently exploring **AI, Full-Stack Development, Cloud, and Data Analytics**
+💬 Experience working with **Ollama** for local LLM applications
 
-🚀 Always learning, building, and experimenting with new technologies
+✨ Building applications using the **Google Gemini API**
 
----
+🎨 Exploring **vibe coding** and AI-assisted software development
 
-# 🛠️ Technologies & Tools
+💻 Interested in building intelligent, practical solutions for real-world problems
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,fastapi,mysql,git,github,vscode" />
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,linux,docker" />
-
-</div>
+🚀 Always learning, building, experimenting, and exploring new technologies
 
 ---
 
-# 🤖 AI & Data Science
+# 🧠 AI & Generative AI
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn" />
+![Ollama](https://img.shields.io/badge/Ollama-Local%20LLMs-000000?style=for-the-badge&logo=ollama&logoColor=white)
+
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-Generative%20AI-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
+
+![LLMs](https://img.shields.io/badge/LLMs-Large%20Language%20Models-8A2BE2?style=for-the-badge)
+
+![Generative AI](https://img.shields.io/badge/Generative%20AI-AI%20Applications-FF6F00?style=for-the-badge)
+
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-AI-6A5ACD?style=for-the-badge)
+
+![Vibe Coding](https://img.shields.io/badge/Vibe%20Coding-AI%20Assisted%20Development-00BFFF?style=for-the-badge)
 
 </div>
 
-## 🧠 AI & Generative AI
+### 🤖 Areas I'm Exploring
 
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
-![Gemini API](https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
-![Generative AI](https://img.shields.io/badge/Generative%20AI-FF6F00?style=for-the-badge)
-![LLMs](https://img.shields.io/badge/LLMs-Large%20Language%20Models-purple?style=for-the-badge)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-AI-blueviolet?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-success?style=for-the-badge)
+- 🧠 Large Language Models (LLMs)
+- 💬 AI Chatbots
+- ⚡ AI-powered Applications
+- ✨ Generative AI
+- 🎯 Prompt Engineering
+- 🖥️ Local LLMs with Ollama
+- 🔗 AI API Integration
+- 🎨 AI-assisted Development & Vibe Coding
+
+---
+
+# 📊 Machine Learning & Data Science
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,pytorch" />
+
+</div>
 
 <br>
 
 - 📊 Data Analysis
 - 🤖 Machine Learning
-- 🧠 Artificial Intelligence
 - 📈 Predictive Analytics
-- 🐍 Python Development
+- 🧹 Data Preprocessing
+- 🔢 Statistical Analysis
+- 🧠 Model Development
+
+---
+
+# 💻 Programming & Development
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,fastapi,mysql" />
+
+</div>
+
+---
+
+# 🛠️ Tools & Technologies
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux" />
+
+</div>
 
 ---
 
@@ -78,7 +112,8 @@
 - 💰 Fare prediction
 - ⏱️ Travel time estimation
 - 📍 Nearby transportation locations
-- 🤖 AI-powered assistance
+- 🤖 AI-powered recommendations
+- 📊 Data-driven transport insights
 
 **Tech Stack:** Python • Machine Learning • Data Science • AI
 
@@ -86,24 +121,49 @@
 
 ## 💰 Personal Finance AI
 
-> An intelligent personal finance application that analyzes financial data and provides insights.
+> An intelligent personal finance application that analyzes financial data, predicts future spending, and provides AI-powered recommendations.
 
 ### Features
 
 - 📊 Expense analysis
 - 📈 Financial forecasting
-- 🤖 AI recommendations
+- 🤖 AI-powered recommendations
 - 💬 AI chatbot
+- 🧠 Local LLM integration using Ollama
 
-**Tech Stack:** React • FastAPI • Python • Machine Learning
+**Tech Stack:** React • FastAPI • Python • Machine Learning • Ollama
 
 ---
 
 ## 🔐 NetGuard
 
-> An AI-powered Network Intrusion Detection System designed to identify suspicious network activity.
+> An AI-powered Network Intrusion Detection System designed to identify suspicious network activity using Machine Learning.
+
+### Features
+
+- 🔍 Network activity monitoring
+- 🚨 Suspicious activity detection
+- 🤖 Machine Learning-based analysis
+- 📊 Security insights
 
 **Tech Stack:** Python • Machine Learning • Cybersecurity
+
+---
+
+# 🌱 Currently Exploring
+
+<div align="center">
+
+🧠 **Large Language Models (LLMs)**  
+🤖 **Generative AI**  
+💬 **AI Chatbots**  
+✨ **Google Gemini API**  
+🖥️ **Local LLMs with Ollama**  
+🎨 **Vibe Coding & AI-assisted Development**  
+📊 **Advanced Machine Learning**  
+☁️ **Cloud & AI Applications**
+
+</div>
 
 ---
 
@@ -111,9 +171,15 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YudheekshanaParamaraj&show_icons=true&theme=github_dark"/>
+<img
+height="180em"
+src="https://github-readme-stats.vercel.app/api?username=YudheekshanaParamaraj&show_icons=true&theme=github_dark&hide_border=true"
+/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YudheekshanaParamaraj&layout=compact&theme=github_dark"/>
+<img
+height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=YudheekshanaParamaraj&layout=compact&theme=github_dark&hide_border=true"
+/>
 
 </div>
 
@@ -123,21 +189,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YudheekshanaParamaraj&theme=github-dark-blue" />
-
-</div>
-
----
-
-# 🌱 Currently Learning
-
-<div align="center">
-
-🤖 Artificial Intelligence  
-📊 Advanced Data Science  
-☁️ Cloud Computing  
-🔐 Cybersecurity  
-🌐 Full-Stack Development  
+<img
+src="https://streak-stats.demolab.com?user=YudheekshanaParamaraj&theme=github-dark-blue&hide_border=true"
+/>
 
 </div>
 
@@ -146,22 +200,33 @@
 # 💡 Fun Fact
 
 ```python
-class Developer:
+class AIDeveloper:
 
     def __init__(self):
         self.name = "Yudheekshana Paramaraj"
-        self.role = "Computer Science Student"
+        self.role = "Aspiring AI Developer"
+
         self.interests = [
             "Artificial Intelligence",
+            "Generative AI",
+            "Large Language Models",
             "Machine Learning",
             "Data Science",
-            "Full-Stack Development"
+            "AI-powered Applications"
+        ]
+
+        self.tools = [
+            "Python",
+            "Ollama",
+            "Gemini API",
+            "FastAPI",
+            "React"
         ]
 
     def say_hi(self):
-        print("Thanks for visiting my profile! 🚀")
+        print("Building ideas with AI 🤖🚀")
 
 
-me = Developer()
+me = AIDeveloper()
 
 me.say_hi()
