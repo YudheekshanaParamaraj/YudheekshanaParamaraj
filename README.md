@@ -47,6 +47,15 @@
 
 </div>
 
+## 🧠 AI & Generative AI
+
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![Gemini API](https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-FF6F00?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/LLMs-Large%20Language%20Models-purple?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-AI-blueviolet?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-success?style=for-the-badge)
+
 <br>
 
 - 📊 Data Analysis
