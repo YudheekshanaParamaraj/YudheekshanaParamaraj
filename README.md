@@ -168,6 +168,3 @@
 ---
 
 
-me = AIDeveloper()
-
-me.say_hi()
