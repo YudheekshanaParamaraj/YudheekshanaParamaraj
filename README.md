@@ -168,37 +168,6 @@
 ---
 
 
-
-# 💡 Fun Fact
-
-```python
-class AIDeveloper:
-
-    def __init__(self):
-        self.name = "Yudheekshana Paramaraj"
-        self.role = "Aspiring AI Developer"
-
-        self.interests = [
-            "Artificial Intelligence",
-            "Generative AI",
-            "Large Language Models",
-            "Machine Learning",
-            "Data Science",
-            "AI-powered Applications"
-        ]
-
-        self.tools = [
-            "Python",
-            "Ollama",
-            "Gemini API",
-            "FastAPI",
-            "React"
-        ]
-
-    def say_hi(self):
-        print("Building ideas with AI 🤖🚀")
-```
-
 me = AIDeveloper()
 
 me.say_hi()
