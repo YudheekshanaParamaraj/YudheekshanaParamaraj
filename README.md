@@ -168,17 +168,6 @@
 ---
 
 
-# 🔥 GitHub Activity
-
-<div align="center">
-
-<img
-src="https://streak-stats.demolab.com?user=YudheekshanaParamaraj&theme=github-dark-blue&hide_border=true"
-/>
-
-</div>
-
----
 
 # 💡 Fun Fact
 
